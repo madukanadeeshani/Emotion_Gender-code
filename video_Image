@@ -1,0 +1,7 @@
+video
+cv2.namedWindow('window_frame')
+video_capture = cv2.VideoCapture("videos/test1.mp4")
+
+Image
+cv2.namedWindow('window_frame')
+video_capture = cv2.imread("videos/ha1.jpg")
